@@ -1,6 +1,0 @@
-pandas
-ipywidgets
-bqplot
-matplotlib
-numpy 
-cartopy.crs
