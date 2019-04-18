@@ -1,7 +1,6 @@
 panda
 ipywidgets
 bqplot
-collections
 matplotlib
 cartopy
 numpy 
