@@ -3,4 +3,4 @@ ipywidgets
 bqplot
 matplotlib
 numpy 
-cartopy
+cartopy.crs
