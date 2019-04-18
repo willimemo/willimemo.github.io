@@ -1,0 +1,7 @@
+panda
+ipywidgets
+bqplot
+collections
+matplotlib.pyplot as plt
+cartopy
+numpy 
