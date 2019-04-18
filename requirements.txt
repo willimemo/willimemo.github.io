@@ -2,5 +2,4 @@ pandas
 ipywidgets
 bqplot
 matplotlib
-cartopy
 numpy 
